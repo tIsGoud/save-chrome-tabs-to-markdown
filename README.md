@@ -1,4 +1,5 @@
-# Save Google Chrome tabs to Bear
+# Save Google Chrome tabs to Markdown
+
 ![Google Chrome tabs to Markdown](img/Chrome-tabs-to-Markdown.png)
 
 This AppleScript saves all tabs and URLs from the Google Chrome windows to a new Markdown file.
@@ -19,7 +20,7 @@ Next steps:
 Once you made sure it works on your system you can:
 
 - Turn it into a Automator workflow to create a Service.
-    - More information: [Use Automator to create a System-Wide service](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html) or
+  - More information: [Use Automator to create a System-Wide service](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html) or
 - Use [BetterTouchTool](https://www.boastr.net) to set up a keybinding or
 - Use [BetterTouchTool](https://www.boastr.net) to create a Touch Bar button.
 
