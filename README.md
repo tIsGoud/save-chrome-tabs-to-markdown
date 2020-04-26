@@ -26,8 +26,6 @@ Once you made sure it works on your system you can:
 
 I went for the last option 😉
 
----
-
 ## Related
 
 Saving browser-tabs is a recurring scripting item, below some links to other scripts to save browser-tabs from Chrome or Safari:
