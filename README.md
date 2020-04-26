@@ -25,3 +25,15 @@ Once you made sure it works on your system you can:
 - Use [BetterTouchTool](https://www.boastr.net) to create a Touch Bar button.
 
 I went for the last option 😉
+
+---
+
+## Related
+
+Saving browser-tabs is a recurring scripting item, below some links to other scripts to save browser-tabs from Chrome or Safari:
+
+- [Save all your Safari tabs to a markdown file](https://github.com/tIsGoud/save-safari-tabs-to-markdown)
+- [Save all your Google Chrome tabs in a Bear note.](https://github.com/tIsGoud/save-chrome-tabs-to-bear)
+- [Save all your Safari tabs in a Bear note.](https://github.com/tIsGoud/save-safari-tabs-to-bear)
+- [Save all your Chrome tabs in a Day One 2 entry.](https://github.com/tIsGoud/save-chrome-tabs-to-day-one)
+- [Save all your Safari tabs in a Day One 2 entry.](https://github.com/tIsGoud/save-safari-tabs-to-day-one)
