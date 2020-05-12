@@ -131,7 +131,7 @@ function writeTextToFile(text, file, overwriteExistingContent) {
 
         // Send success notification
         currentApp.displayNotification(`All tabs have been saved to ${file}.`, {
-        withTitle: `SafariTabsToMarkdown`})
+        withTitle: `ChromeTabsToMarkdown`})
 
         // Return a boolean indicating that writing was successful
         return true
